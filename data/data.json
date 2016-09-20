@@ -1,0 +1,30 @@
+[
+  {
+    "name": "yoshi",
+    "belt": "green",
+    "rate": 50,
+    "available": true,
+    "thumb": "content/img/Luigi.png"
+  },
+  {
+    "name": "sushi",
+    "belt": "blue",
+    "rate": 45,
+    "available": false,
+    "thumb": "content/img/Mario.png"
+  },
+  {
+    "name": "lee",
+    "belt": "red",
+    "rate": 78,
+    "available": true,
+    "thumb": "content/img/Peach.png"
+  },
+  {
+    "name": "lugi",
+    "belt": "yellow",
+    "rate": 89,
+    "available": true,
+    "thumb": "content/img/Yoshi.png"
+  }
+]
